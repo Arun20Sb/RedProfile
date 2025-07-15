@@ -64,16 +64,8 @@ npm run dev
 
 ## 📸 UI Preview
 
-![UI](./first.png)
-![UI](./second.png)
-![UI](./third.png)
+![UI](./screenshots/first.png)
+![UI](./screenshots/second.png)
+![UI](./screenshots/third.png)
 
----
 
-## ✍ Author
-
-Built by [@Arun20Sb](https://github.com/Arun20Sb)
-
-```
-
----
