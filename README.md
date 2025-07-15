@@ -66,7 +66,12 @@ npm run dev
 ## 📸 UI Preview
 
 ![UI](./screenshots/first.jpg)
+
 ![UI](./screenshots/second.jpg)
+
 ![UI](./screenshots/third.jpg)
 
 
+## 🚀 Further Enhancements
+
+- Add PDF download functionality for each generated persona.
