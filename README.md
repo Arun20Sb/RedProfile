@@ -64,8 +64,8 @@ npm run dev
 
 ## 📸 UI Preview
 
-![UI](./screenshots/first.png)
-![UI](./screenshots/second.png)
-![UI](./screenshots/third.png)
+![UI](./screenshots/first.jpg)
+![UI](./screenshots/second.jpg)
+![UI](./screenshots/third.jpg)
 
 
