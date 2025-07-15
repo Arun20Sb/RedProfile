@@ -12,7 +12,7 @@ const Navbar = () => {
         <div className="flex items-center justify-center h-22 relative">
           {/* Logo */}
           <div className="flex items-center space-x-2 absolute left-15">
-            <div className="w-8 h-8 bg-gradient-to-r from-red-500 to-blue-500 rounded" />
+            <img src="https://img.icons8.com/?size=120&id=BU7Clwq5bV9D&format=png" className="w-8 h-8 bg-gradient-to-r from-red-500 to-blue-500 rounded" />
             <span
               className="text-3xl font-bold text-white cursor-pointer"
               onClick={() => navigate("/")}

@@ -50,6 +50,7 @@ uvicorn main:app --reload
 
 ---
 
+
 ## 💻 Frontend (optional)
 
 > Modern UI with React, Tailwind, shadcn/ui, framer-motion
