@@ -1,0 +1,56 @@
+ **BASIC INFO**
+NAME: Rajat Gupta
+AGE: 30
+OCCUPATION: Business Owner
+STATUS: Single
+LOCATION: Lucknow, India
+TIER: Mainstream
+ARCHETYPE: The Achiever
+
+**PERSONALITY TRAITS**
+- Competitive
+- Analytical
+- Entrepreneurial
+- Direct
+- Skeptical
+
+**MOTIVATIONS**
+CONVENIENCE: 3
+WELLNESS: 4
+SPEED: 5
+PREFERENCES: 3
+COMFORT: 2
+DIETARY NEEDS: 4
+
+**PERSONALITY SCALES**
+INTROVERT: 3
+EXTROVERT: 4
+THINKING: 5
+FEELING: 2
+SENSING: 4
+INTUITION: 1
+JUDGING: 4
+PERCEIVING: 2
+
+**BEHAVIOUR & HABITS**
+- Engages in productive activities and discussions about his city
+- Criticizes the increasing cost of living and the excessive use of stickers on vehicles
+- Experienced corruption and bribery, expresses disapproval for it
+- Seeks quick and efficient solutions to problems
+- Shares personal experiences to highlight issues in the city
+
+**GOALS & NEEDS**
+- To maintain a successful business despite the challenges in Lucknow
+- Quality food at affordable prices
+- A clean and organized city with less corruption, more regulations, and lower costs
+- Freedom from harassment and a more secure environment
+
+**FRUSTRATIONS**
+- High costs and low demand leading to expensive rents
+- Corruption and bribery
+- Poor quality food from tiffin services
+- Harassment by certain individuals
+- Excessive use of stickers on vehicles
+
+**QUOTE**
+"Cops keep a 'common guy' around to discuss bribes." (Comment #6)

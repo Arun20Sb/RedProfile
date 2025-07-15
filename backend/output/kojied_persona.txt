@@ -1,0 +1,56 @@
+ **BASIC INFO**
+  NAME: Alexi Choi
+  AGE: 30
+  OCCUPATION: iOS Developer
+  STATUS: Single
+  LOCATION: New York City, NY, USA
+  TIER: Early Adopters
+  ARCHETYPE: The Creator
+
+**PERSONALITY TRAITS**
+  - Innovative
+  - Detail-oriented
+  - Analytical
+  - Perseverant
+  - Goal-driven
+
+**MOTIVATIONS**
+  CONVENIENCE: 5
+  WELLNESS: 4
+  SPEED: 5
+  PREFERENCES: 5
+  COMFORT: 4
+  DIETARY NEEDS: 3
+
+**PERSONALITY SCALES**
+  INTROVERT: 3
+  EXTROVERT: 5
+  THINKING: 5
+  FEELING: 3
+  SENSING: 4
+  INTUITION: 2
+  JUDGING: 5
+  PERCEIVING: 4
+
+**BEHAVIOUR & HABITS**
+  - Constantly learning new technologies and programming languages
+  - Researching new AR and VR products and experiences
+  - Sharing insights and findings with online communities
+  - Following industry news and innovations
+  - Discussing technology-related topics with colleagues and friends
+
+**GOALS & NEEDS**
+  - Develop high-quality AR and VR applications
+  - Stay updated on the latest AR and VR technologies
+  - Collaborate with other developers and designers on exciting projects
+  - Share knowledge and insights with the wider AR and VR community
+  - Continuously improve his skills and expertise
+
+**FRUSTRATIONS**
+  - Poor software support for AR and VR platforms
+  - Inadequate tools for creating and optimizing AR and VR experiences
+  - Lack of standardization in AR and VR technologies
+  - Outdated and unrealistic depictions of AR and VR in media
+
+**QUOTE**
+ "Can't wait for Vision Air 5 launching in 2034 with these transparent displays!" (Source: https://reddit.com/r/VisionPro/comments/1b36n83/cant_wait_for_vision_air_5_launching_in_2034_with/)
