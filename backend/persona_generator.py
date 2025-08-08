@@ -128,7 +128,6 @@ PERCEIVING: [1-5]
 Here is the user's Reddit content:
 {combined_text}
 """
-
         # Call LLM
         completion = client.chat.completions.create(
             model="mistralai/mistral-7b-instruct:free",

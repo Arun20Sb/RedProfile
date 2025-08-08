@@ -74,4 +74,4 @@ npm run dev
 
 ## 🚀 Further Enhancements
 
-- Add PDF download functionality for each generated persona.
+- Can also add PDF download functionality for each generated persona.
