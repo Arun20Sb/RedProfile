@@ -16,7 +16,7 @@ function App() {
           style: {
             marginRight: "40px",
             marginTop: "90px",
-            fontSize: "18px"
+            fontSize: "18px",
           },
         }}
       />
@@ -27,6 +27,7 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/personas" element={<PersonasList />} />
             <Route path="/personas/:username" element={<PersonaView />} />
+            <Route path="*" element={<Navigate to="/404.html" replace />} />
           </Routes>
         </div>
       </Router>
